@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Son_new.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  HardCodedData.c
+C:\Users\eranb\source\repos\Ex1_ISP\Son_new\HardCodedData.c(66,17): warning C4047: 'function': 'LPDWORD' differs in levels of indirection from 'DWORD'
+C:\Users\eranb\source\repos\Ex1_ISP\Son_new\HardCodedData.c(66,3): warning C4024: 'WriteFile': different types for formal and actual parameter 4
+C:\Users\eranb\source\repos\Ex1_ISP\Son_new\HardCodedData.c(124,98): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\eranb\source\repos\Ex1_ISP\Son_new\HardCodedData.c(124,94): warning C4024: 'SetFilePointer': different types for formal and actual parameter 4
+C:\Users\eranb\source\repos\Ex1_ISP\Son_new\HardCodedData.c(132,96): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\eranb\source\repos\Ex1_ISP\Son_new\HardCodedData.c(132,92): warning C4024: 'SetFilePointer': different types for formal and actual parameter 4
+  main.c
+  Generating Code...
+  Son_new.vcxproj -> C:\Users\eranb\source\repos\Ex1_ISP\Debug\Son.exe
